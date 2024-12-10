@@ -4,7 +4,7 @@
  - I am student of second year cse student.
 
 ## Profile Photo:
-![profile photo](https://pixabay.com/photos/man-portrait-male-adult-guy-beard-6339003/)
+![profile photo](https://images.pexels.com/photos/771742/pexels-photo-771742.jpeg)
 
 ## Education 
   
@@ -19,9 +19,9 @@
  -Git ,github
 
 ## Interests:
- -coding
- -cricket
- -Movies
+- coding
+- cricket
+- Movies
 
 ## Contact:
 - **Email**:[Email id](2023ucp1606@mnit.ac.in)
